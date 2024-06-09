@@ -68,3 +68,7 @@ Cleans up all generated files.
 ```sh
 make clean
 ```
+
+*** 
+
+This project was developed by a students of School 21: jereyji, shaunna, gehnbrig, luanarau
